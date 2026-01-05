@@ -25,6 +25,5 @@ Inserta aquí la captura del código o de la ejecución.
 Inserta aquí una segunda captura si aplica.
 - Archivo: `assets/captura-2.png`
 
-![alt text](image-1.png)
-
+![alt text](image-2.png)
 

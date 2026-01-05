@@ -1,5 +1,4 @@
 import structures.trees.IntTree;
-import models.Persona;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -16,7 +15,7 @@ public class App {
         tree.inOrder();
 
         System.out.println("\nPostOrder:");
-        tree.posOrder();
+        tree.postOrder();
 
         System.out.println("\nSize:");
         System.out.println(tree.size());
