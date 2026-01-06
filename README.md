@@ -6,7 +6,7 @@
 
 
 ##  Nombre de la práctica - Fecha
-- Práctica: [Nombre exacto de la práctica]
+- Práctica: 
 - Fecha: 5-1-2026
 
 ## Descripción
@@ -26,4 +26,18 @@ Inserta aquí una segunda captura si aplica.
 - Archivo: `assets/captura-2.png`
 
 ![alt text](image-2.png)
+
+
+
+##  Nombre de la práctica - Fecha
+- Práctica: Práctica de Árboles – Interface Comparable
+- Fecha: 6-1-2026
+
+### Captura 3
+Inserta aquí la captura del código o de la ejecución.
+![alt text](image-3.png)
+
+### Captura 4 
+
+![alt text](image-4.png)
 
