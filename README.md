@@ -41,3 +41,30 @@ Inserta aquí la captura del código o de la ejecución.
 
 ![alt text](image-4.png)
 
+
+
+##  Nombre de la práctica - Fecha
+- Práctica: Graphs
+- Fecha: 8-1-2026
+
+## Descripción
+Se desarrolló la implementación de estructuras de datos no lineales, específicamente Grafos y Árboles Binarios, utilizando programación genérica en Java para manipular distintos tipos de datos. Para el grafo, se aplicó un enfoque de lista de adyacencia mediante HashMap, permitiendo la conexión de nodos y la recuperación eficiente de sus vecinos inmediatos. En cuanto a los árboles, se programaron algoritmos recursivos para la inserción, el cálculo del tamaño y los recorridos principales (PreOrder, InOrder, PostOrder). Finalmente, se integraron y validaron ambas estructuras en la clase App, demostrando la correcta gestión de vértices, aristas y la búsqueda de información dentro de la jerarquía.
+
+## Evidencias
+### Captura 1
+Inserta aquí la captura del código o de la ejecución.
+- Archivo: `assets/captura-1.png`
+
+![alt text](image-5.png)
+
+
+### Captura 2 
+Inserta aquí una segunda captura si aplica.
+
+Clase graph
+
+![alt text](image-6.png)
+
+
+
+
